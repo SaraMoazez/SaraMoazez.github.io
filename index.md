@@ -3,9 +3,9 @@
 ---
 
 ### KTH projects
-
+<img src="/images2020-03-19.png?raw=true"/>
 [IK1203 Project](https://github.com/SaraMoazez/IK1203Project)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 
 ---
